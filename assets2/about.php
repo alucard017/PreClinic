@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>About Us</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Dr PRO template project">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+	<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+	<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+	<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+	<link rel="stylesheet" type="text/css" href="styles/about.css">
+	<link rel="stylesheet" type="text/css" href="styles/about_responsive.css">
+</head>
+
+<body>
+
+	<div class="super_container">
+
+		<!-- Header -->
+
+		<header class="header trans_400">
+			<div class="header_content d-flex flex-row align-items-center jusity-content-start trans_400">
+
+				<!-- Logo -->
+				<div class="logo">
+					<a href="#">
+						<div>Pre<span>Clinic</span></div>
+						<div>Prehospital and Medical</div>
+					</a>
+				</div>
+
+				<!-- Main Navigation -->
+				<nav class="main_nav">
+					<ul class="d-flex flex-row align-items-center justify-content-start">
+						<li><a href="index.php">Home</a></li>
+						<li class="active"><a href="about.php">About us</a></li>
+						<li><a href="contact.php">Contact</a></li>
+						<li><a href="index2.php">Admin Login</a></li>
+					</ul>
+				</nav>
+				<div class="header_extra d-flex flex-row align-items-center justify-content-end ml-auto">
+
+					<!-- Work Hourse -->
+					<div class="work_hours">Mo - Sat: 8:00am - 9:00pm</div>
+
+					<!-- Header Phone -->
+					<div class="header_phone">+91 123 456 7890</div>
+
+					<!-- Header Social -->
+					<div class="social header_social">
+						<ul class="d-flex flex-row align-items-center justify-content-start">
+							<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+
+					<!-- Hamburger -->
+					<div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+				</div>
+			</div>
+		</header>
+
+		<!-- Menu -->
+
+		<div class="menu_overlay trans_400"></div>
+		<div class="menu trans_400">
+			<div class="menu_close_container">
+				<div class="menu_close">
+					<div></div>
+					<div></div>
+				</div>
+			</div>
+			<nav class="menu_nav">
+				<ul>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="about.php">About us</a></li>
+					<li><a href="contact.php">Contact</a></li>
+					<li><a href="index2.php">Admin Login</a></li>
+				</ul>
+			</nav>
+			<div class="menu_extra">
+				<div class="menu_link">Mo - Sat: 8:00am - 9:00pm</div>
+				<div class="menu_link">+91 123 456 7890</div>
+				<div class="menu_link"><a href="#">Make an appointment</a></div>
+			</div>
+			<div class="social menu_social">
+				<ul class="d-flex flex-row align-items-center justify-content-start">
+					<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+				</ul>
+			</div>
+		</div>
+
+		<!-- Home -->
+
+		<div class="home d-flex flex-column align-items-start justify-content-end">
+			<!-- <div class="background_image" style="background-image:url(images/about.jpg)"></div> -->
+			<div class="parallax_background parallax-window" data-parallax="scroll"
+				data-image-src="images/doctorhome2.jpg" data-speed="0.8"></div>
+			<div class="home_overlay"><img src="images/home_overlay.png" alt=""></div>
+			<div class="home_container">
+				<div class="container">
+					<div class="row">
+						<div class="col">
+							<div class="home_content">
+								<div class="home_title">About us</div>
+								<div class="home_text">The Community that cares for your health as well as your
+									Reliability.</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Intro -->
+
+		<div class="intro">
+			<div class="container">
+				<div class="row">
+
+					<!-- Intro Content -->
+					<div class="col-lg-8">
+						<div class="intro_content">
+							<div class="section_title_container">
+								<div class="section_subtitle">This is PreMedical</div>
+								<div class="section_title">
+									<h2>Welcome to our Prehospitality Clinic</h2>
+								</div>
+							</div>
+							<div class="intro_text">
+								<p>We are able to provide free, no-obligation quotes for a wide range of treatments,
+									consultations and tests to our
+									self-pay patients. Our reputation for outstanding care and family-like atmosphere,
+									together with advanced medical technology and facilities
+									ensures we attract leading consultants and specialists from the industry to work
+									with us. All our clinicians are
+									board-certified and come with very high credentials within their field of
+									speciality. Many of our consultant doctors are
+									internationally recognised as well.</p>
+							</div>
+
+							<!-- Milestones -->
+							<div class="milestones">
+								<div class="row milestones_row">
+
+									<!-- Milestone -->
+									<div class="col-md-3 milestone_col">
+										<div class="milestone">
+											<div class="milestone_counter" data-end-value="5000" data-sign-before="+">0
+											</div>
+											<div class="milestone_text">Satisfied Users</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+					</div>
+
+					<!-- Intro Image -->
+					<div class="col-lg-3 offset-lg-1">
+						<div class="intro_image"><img src="images/about1.jpg" alt=""></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Testimonials -->
+
+		<div class="testimonials">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="section_title_container text-center">
+							<div class="section_subtitle">We Make out the best possible outcome.</div>
+							<div class="section_title">
+								<h2>See What our Developers Say !</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row testimonials_row">
+					<div class="col">
+						<div class="quote d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
+							<img src="images/quote.png" alt="">
+						</div>
+
+						<!-- Testimonials Slider -->
+						<div class="test_slider_container">
+							<div class="owl-carousel owl-theme test_slider">
+
+								<!-- Slide -->
+								<div class="owl-item">
+									<div class="test_item text-center">
+										<div class="test_text">
+											<p>The Website helps to easily book an appointment if the
+												patient is facing any difficulties at any instance of time.
+												Also the interactivity, this website provides, can easily accessible
+												by any user at any time.
+											</p>
+										</div>
+										<div
+											class="test_info d-flex flex-row align-items-center justify-content-center">
+											<div class="test_text">Rasmiranjan Sahoo, <span>Developer</span></div>
+										</div>
+									</div>
+								</div>
+
+								<!-- Slide -->
+								<div class="owl-item">
+									<div class="test_item text-center">
+										<div class="test_text">
+											<p>PreClinical appointment is not an option but a compulsory
+												choice for everyone, as each one of us will need medical healthcare
+												at some point of time. Keeping this in mind we aim to solve
+												the most important problem to meet a doctor in our society.
+												With this site you can easily contact us to fix an appoinmemt before you
+												can
+												actually meet the doctor with surity.
+											</p>
+										</div>
+										<div
+											class="test_info d-flex flex-row align-items-center justify-content-center">
+											<div class="test_text">Apurba Sundar Nayak, <span>Developer</span></div>
+										</div>
+									</div>
+								</div>
+
+								<!-- Slide -->
+								<div class="owl-item">
+									<div class="test_item text-center">
+										<div class="test_text">
+											<p>In our society, when an individual falls ill it becomes very difficult to
+												see a
+												doctor at any instance. Sometimes it become very tricky as well as so
+												much
+												waiting type of choice to see for a doctor. This problem gave us an idea
+												to
+												solve a problem an manage the preClinical engagement to fix an
+												appointment before actual
+												meeting.
+											</p>
+										</div>
+										<div
+											class="test_info d-flex flex-row align-items-center justify-content-center">
+											<div class="test_text">Soumya Sephalika Sahoo, <span>Developer</span></div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Call to action -->
+
+		<div class="cta">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div
+							class="cta_container d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-start">
+							<div class="cta_content">
+								<div class="cta_title">Make your appointment today!</div>
+								<div class="cta_text">Feel Free to Reach us out any time you want</div>
+							</div>
+							<div class="cta_phone ml-lg-auto">+91 123 456 7890</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Team -->
+
+		<div class="team">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="section_title_container text-center">
+							<div class="section_subtitle">Pre-Medical Developer Community</div>
+							<div class="section_title">
+								<h2>Meet the Developers</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row team_row">
+
+					<!-- Team Item -->
+					<div class="col-lg-4 team_col">
+						<div class="team_item text-center d-flex flex-column aling-items-center justify-content-end">
+							<div class="team_image"><img src="images/doctorabout.jpg" alt=""></div>
+							<div class="team_content text-center">
+								<div class="team_name"><a href="#">Rasmiranjan Sahoo</a></div>
+								<div class="team_title">Frontend Designer</div>
+								<div class="team_text">
+									<p>Rasmiranjan Sahoo is a skilled programmer who can easily interpret
+										his web designing skills to build interactive and responsive static
+										websites. While developing this website he has provided his
+										utmost effort to provide full assitance to any user. Rasmi is a
+										potential learner who can easily percieve a thing with ease. He has
+										Mastered many programming languages and XML languages.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Team Item -->
+					<div class="col-lg-4 team_col">
+						<div class="team_item text-center d-flex flex-column aling-items-center justify-content-end">
+							<div class="team_image"><img src="images/doctor4.webp" alt=""></div>
+							<div class="team_content text-center">
+								<div class="team_name"><a href="#">Soumya Sephalika Sahoo</a></div>
+								<div class="team_title">Database Maintainer</div>
+								<div class="team_text">
+									<p>Soumya Sephalika is very proficient in managing databases. She
+										has designed the website to work at the backend and make sure to accept
+										its constituent inputs to the database. She has worked with Oracle SQL, MySQL or
+										MariaDB server and also a bit of PostgreSQL.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Team Item -->
+					<div class="col-lg-4 team_col">
+						<div class="team_item text-center d-flex flex-column aling-items-center justify-content-end">
+							<div class="team_image"><img src="images/doctor2.webp" alt=""></div>
+							<div class="team_content text-center">
+								<div class="team_name"><a href="#">Apurba Sundar Nayak</a></div>
+								<div class="team_title">Backend Developer</div>
+								<div class="team_text">
+									<p>Apurba Sundar Nayak is also a skilled programmer and a creative writer.
+										He has experience in working with javascript and server side programming such as
+										node.js and react native. He has contributed to connect the website to the
+										Server via PHP. Apurba Contains mass knowledge of many a programming languages
+										also excelling in the field.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<!-- Footer -->
+
+		<footer class="footer">
+			<div class="footer_content">
+				<div class="container">
+					<div class="row">
+
+						<!-- Footer About -->
+						<div class="col-lg-3 footer_col">
+							<div class="footer_about">
+								<div class="footer_logo">
+									<a href="#">
+										<div>Pre<span>Clinic</span></div>
+										<div>Prehospital and Medical</div>
+									</a>
+								</div>
+								<div class="footer_about_text">
+									<p>Engage with your Healthcare Professional with ease. You may feel too small to
+										make
+										a difference or that change will not come until you are no longer in the fight.
+										But, when
+										you join thousands of other people contributing to critical health issues, you
+										become a champion for healthcare and
+										humanity. And that matters!</p>
+								</div>
+							</div>
+						</div>
+
+						<!-- Footer Contact Info -->
+						<div class="col-lg-3 footer_col">
+							<div class="footer_contact">
+								<div class="footer_title">Contact Info</div>
+								<ul class="contact_list">
+									<li>+91 123 456 7890</li>
+									<li>apurba@gmail.com</li>
+									<li>rasmi@gmail.com</li>
+								</ul>
+							</div>
+						</div>
+
+						<!-- Footer Locations -->
+						<div class="col-lg-3 footer_col">
+							<div class="footer_location">
+								<div class="footer_title">Our Hospital Location</div>
+								<ul class="locations_list">
+									<li>
+										<div class="location_title">Ravenshaw Hospital</div>
+										<div class="location_text">College Square, Cuttack</div>
+									</li>
+									<li>
+										<div class="location_title">Odisha, 753004</div>
+										<div class="location_text">Near Ravenshaw University, Cuttack</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+						<!-- Footer Opening Hours -->
+						<div class="col-lg-3 footer_col">
+							<div class="opening_hours">
+								<div class="footer_title">Opening Hours</div>
+								<ul class="opening_hours_list">
+									<li class="d-flex flex-row align-items-start justify-content-start">
+										<div>Monday:</div>
+										<div class="ml-auto">8:00am - 9:00pm</div>
+									</li>
+									<li class="d-flex flex-row align-items-start justify-content-start">
+										<div>Thuesday:</div>
+										<div class="ml-auto">8:00am - 9:00pm</div>
+									</li>
+									<li class="d-flex flex-row align-items-start justify-content-start">
+										<div>Wednesday:</div>
+										<div class="ml-auto">8:00am - 9:00pm</div>
+									</li>
+									<li class="d-flex flex-row align-items-start justify-content-start">
+										<div>Thursday:</div>
+										<div class="ml-auto">8:00am - 9:00pm</div>
+									</li>
+									<li class="d-flex flex-row align-items-start justify-content-start">
+										<div>Friday:</div>
+										<div class="ml-auto">8:00am - 7:00pm</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="footer_bar">
+				<div class="container">
+					<div class="row">
+						<div class="col">
+							<div
+								class="footer_bar_content  d-flex flex-md-row flex-column align-items-md-center justify-content-start">
+								<div class="copyright">
+									<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+									Copyright &copy;
+									<script>document.write(new Date().getFullYear());</script> All rights reserved |
+								</div>
+								<nav class="footer_nav ml-md-auto">
+									<ul class="d-flex flex-row align-items-center justify-content-start">
+										<li><a href="index.php">Home</a></li>
+										<li><a href="about.php">About us</a></li>
+										<li><a href="contact.php">Contact</a></li>
+										<li><a href="index2.php">Admin Login</a></li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="styles/bootstrap-4.1.2/popper.js"></script>
+	<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+	<script src="plugins/greensock/TweenMax.min.js"></script>
+	<script src="plugins/greensock/TimelineMax.min.js"></script>
+	<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+	<script src="plugins/greensock/animation.gsap.min.js"></script>
+	<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+	<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+	<script src="plugins/easing/easing.js"></script>
+	<script src="plugins/parallax-js-master/parallax.min.js"></script>
+	<script src="js/about.js"></script>
+
+
+</body>
+
+</html>
